@@ -1,0 +1,12 @@
+*.pdf
+*.png
+*.jpg
+*.csv
+*.nii.gz
+*.npz
+*.xlsx
+*.pyc
+*.html
+*.odt
+temp/
+results/
